@@ -4,6 +4,8 @@ This is the code of our paper "Enhancing Time Series Classification with Self-Su
 
 ## Triplet Loss Mechanism
 
+The Triplet Loss used in this work was proposed by [F. Schroff et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html).
+
 <p align='center'>
 <img style="height: auto; width: 400px" src='figures/model.png'/>
 </p>
