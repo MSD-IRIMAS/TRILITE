@@ -46,6 +46,8 @@ The variable to be changed is [this line](https://github.com/MSD-IRIMAS/TRILITE/
 
 ## Results
 
+Results of the conducted experiments can be found in the two csv files, one for the [enhancement of FCN](results/fcn/results_ucr.csv) and one for the [Semi-Supervised setup](results_semi_30/fcn/results_ucr.csv).
+
 ### TRILITE with a Fully Connected Layer Classifier
 
 <p align='center'>
