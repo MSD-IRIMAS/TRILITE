@@ -5,7 +5,7 @@ This is the code of our paper "Enhancing Time Series Classification with Self-Su
 ## Triplet Loss Mechanism
 
 <p align='center'>
-<img src='figures/model.png'/>
+<img style="height: auto; width: 400px" src='figures/model.png'/>
 </p>
 
 ## Triplet Generation
@@ -13,13 +13,13 @@ This is the code of our paper "Enhancing Time Series Classification with Self-Su
 ### Positive Samples
 
 <p align='center'>
-<img src='figures/pos.png'/>
+<img style="height: auto; width: 500px" src='figures/pos.png'/>
 </p>
 
 ### Negative Samples
 
 <p align='center'>
-<img src='figures/neg.png'/>
+<img style="height: auto; width: 500px" src='figures/neg.png'/>
 </p>
 
 ## Dataset
@@ -47,25 +47,25 @@ The variable to be changed is [this line](https://github.com/MSD-IRIMAS/TRILITE/
 ### TRILITE with a Fully Connected Layer Classifier
 
 <p align='center'>
-<img src='figures/trilit_vs_fcn.png'/>
+<img style="height: auto; width: 300px" src='figures/trilit_vs_fcn.png'/>
 </p>
 
 ### TRILITE+FCN with a Fully Connected Layer Classifier (+ means concatenation of features)
 
 <p align='center'>
-<img src='figures/concat_vs_fcn.png'/>
+<img style="height: auto; width: 300px" src='figures/concat_vs_fcn.png'/>
 </p>
 
 ### TRILITE+FCN in a Semi-Supervised environment with a RIDGE Classifier
 
 <p align='center'>
-<img src='figures/semi_30_compare.png'/>
+<img style="height: auto; width: 300px" src='figures/semi_30_compare.png'/>
 </p>
 
 ### Latent Space Representation in 2D using TRILITE on the SyntheticControl Dataset of the UCR archive
 
 <p align='center'>
-<img src='figures/tsne.png'/>
+<img style="height: auto; width: 400px" src='figures/tsne.png'/>
 </p>
 
 ## Reference
