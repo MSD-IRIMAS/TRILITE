@@ -1,6 +1,6 @@
 # Enhancing Time Series Classification with Self-Supervised Learning
 
-This is the code of our paper "Enhancing Time Series Classification with Self-Supervised Learning" accepted as short paper at [2023 15th International Conference on Agents and Artificial Interlligence](https://icaart.scitevents.org/). <br> This work was done by [Ali Ismail-Fawaz](https://hadifawaz1999.github.io/), [Maxime Devanne](https://maxime-devanne.com/), [Jonathan Weber](https://www.jonathan-weber.eu/) and [Germain Forestier](https://germain-forestier.info/).
+This is the code of our paper "[Enhancing Time Series Classification with Self-Supervised Learning](https://doi.org/10.5220/0011611300003393)" [[pdf]](https://hal.science/hal-04143083/document) accepted as short paper at [2023 15th International Conference on Agents and Artificial Interlligence](https://icaart.scitevents.org/). <br> This work was done by [Ali Ismail-Fawaz](https://hadifawaz1999.github.io/), [Maxime Devanne](https://maxime-devanne.com/), [Jonathan Weber](https://www.jonathan-weber.eu/) and [Germain Forestier](https://germain-forestier.info/).
 
 ## Triplet Loss Mechanism
 
